@@ -1,2 +1,2 @@
 # Daily Safe: Health Management & COVID-19 tracking App
-[pdf](DailySafe Demo Slides.pdf)
+[pdf](demo_slides.pdf)
