@@ -1,2 +1,2 @@
 # Daily Safe: Health Management & COVID-19 tracking App
-![introduction](pdf/demo_slide.png)
+[embed]https://github.com/xiakezzz/Daily-Safe-COVID-Tracker-App/blob/main/pdf/demo_slide.pdf[/embed]
