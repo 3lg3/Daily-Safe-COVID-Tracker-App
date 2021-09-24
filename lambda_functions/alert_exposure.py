@@ -3,7 +3,7 @@ import boto3
 
 
 sqs = boto3.client('sqs')
-queue_url = 'https://sqs.us-east-1.amazonaws.com/905863309174/alert-exposure'
+queue_url = 'url'
 
 def lambda_handler(event, context):
     contacts = ['sr01@columbia.edu', 'ts01@columbia.edu']
